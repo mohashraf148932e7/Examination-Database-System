@@ -164,5 +164,10 @@ GROUP BY fullname;
 
 ---
 
-## Author
+## Authors:
+1. Nadia Ahmed
+2. Mohamed Hassan
+3. Mohamed Ashraf
+4. Mohamed Emad
+5. Mohamed Loai
 This project is developed as part of an academic exercise to demonstrate SQL skills and database design.
