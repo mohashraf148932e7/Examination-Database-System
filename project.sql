@@ -11,6 +11,7 @@ CREATE TABLE student (
 	faculty varchar(50) NOT NULL,
 	graduation_status enum("undergraduate","postgraduate") default "undergraduate"
 );
+
 INSERT INTO student (id, fname, lname, username, st_password, st_level, faculty, graduation_status)
 VALUES
 (1, 'Ahmed', 'Hassan', 'ahmed.hassan', 'pass123', '3', 'Engineering', 'undergraduate'),
